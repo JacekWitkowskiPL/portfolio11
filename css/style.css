@@ -79,13 +79,13 @@ footer{
     bottom: 0;
     position: fixed;
     width: 100%;
-    background-color: yellow;
+    background-color: #ccbdb6;
     color: black;
     opacity: 0.8;
     font-size: 20px;
     padding-bottom: 10px;
+    text-align: center;
 }
 footer input{
-    height: 20px;
-    
+    height: 25px;
 }
