@@ -26,3 +26,9 @@ ul li{
     line-height: 80px;
     font-size: 25px;
 }
+
+ul li a{
+    display: block;
+    text-decoration: none;
+    background-color: black;
+}
