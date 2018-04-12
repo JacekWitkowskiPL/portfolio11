@@ -32,3 +32,8 @@ ul li a{
     text-decoration: none;
     background-color: black;
 }
+
+ul li a:hover{
+    background-color: #2e3758;
+    cursor: pointer;
+}
