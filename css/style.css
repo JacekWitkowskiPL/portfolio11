@@ -31,10 +31,10 @@ ul li a{
     display: block;
     text-decoration: none;
     background-color: black;
+    color: yellow;
 }
 
 ul li a:hover{
-    background-color: #2e3758;
     cursor: pointer;
 }
 
@@ -43,8 +43,10 @@ ul li ul li{
     text-align: justify;
     line-height: 45px;
     display: none;
+    
 }
 
 ul li:hover ul li{
     display: block;
+    
 }
