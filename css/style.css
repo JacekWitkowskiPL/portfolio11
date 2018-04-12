@@ -8,6 +8,8 @@ body {
     background: url('backgrounds/coding.jpg') no-repeat;
     background-size: cover;
     height: 100vh;
+    font-family: 'Berkshire Swash', cursive;
+
 }
 
 ul {
@@ -24,6 +26,7 @@ ul li {
     text-align: center;
     line-height: 80px;
     font-size: 25px;
+
 }
 
 ul li a {
