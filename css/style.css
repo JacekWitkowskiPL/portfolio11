@@ -8,4 +8,21 @@ body{
     background:url('backgrounds/coding.jpg') no-repeat;
     background-size: cover;
     height: 100vh;
+    
+}
+
+ul{
+    list-style: none;
+    color: yellow;
+}
+
+ul li{
+    float: left;
+    width: 425px;
+    height: 80px;
+    background-color: black;
+    opacity: 0.8;
+    text-align: center;
+    line-height: 80px;
+    font-size: 25px;
 }
