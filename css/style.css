@@ -28,6 +28,7 @@ ul li {
     line-height: 80px;
     font-size: 25px;
     
+    
 }
 
 ul li a {
@@ -39,6 +40,7 @@ ul li a {
 
 ul li a:hover {
     cursor: pointer;
+    
 }
 
 ul li ul li {
@@ -73,8 +75,17 @@ section img {
     border-radius: 100px;
     opacity: 0.9;   
 }
-
-section img:hover{
-    transform: rotateY(360deg);
-    animation-duration: 2s;
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    opacity: 0.8;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+footer input{
+    height: 20px;
+    
 }
